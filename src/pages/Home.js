@@ -8,8 +8,9 @@ function Home() {
     <div class="alert alert-success" role="alert">
         <h1 class="display-3">{t('page.welcome.home')}</h1>
     </div>
-    <div class="alert alert-success" role="alert">
+    <div class="alert alert-danger" role="alert">
     <h1 class="display-6">{t('parag.description')}</h1>
+    <h1 class="display-6">{t('parag.name')}</h1>
   </div>
     </>
   );

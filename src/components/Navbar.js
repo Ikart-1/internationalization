@@ -50,8 +50,9 @@ function Navbar() {
                 EN
               </option>
               <option  value="fr" className="lang">FR</option>
+              <option  value="ar" className="lang">AR</option>
             </select>
-          </div>
+        </div>
       </div>
     </nav>
   );
